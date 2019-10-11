@@ -1,7 +1,7 @@
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 - To learn React, check out the [React documentation](https://reactjs.org/)
 ------------------------------------------------------------------------------
-### Tue Quach Portfolio :[(demo)](https://greenleaves-deployed.herokuapp.com/)
+### Tue Quach Portfolio :[(demo)](https://tuequach.herokuapp.com/)
 
 ------------------------------------------------------------------------------------------------
 ## Technology Stack
