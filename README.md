@@ -7,6 +7,7 @@
 ## Technology Stack
 
 - React with Material Design UI
+- React-Icons & React Router
 - Javascript
 - HTML
 - CSS
